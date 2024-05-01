@@ -1,0 +1,8 @@
+C:\Users\Karla-PFSL\source\repos\VisorFotos\bin\Debug\VisorFotos.dll
+C:\Users\Karla-PFSL\source\repos\VisorFotos\bin\Debug\VisorFotos.pdb
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.csproj.AssemblyReference.cache
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.UserControl1.resources
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.csproj.GenerateResource.cache
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.csproj.CoreCompileInputs.cache
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.dll
+C:\Users\Karla-PFSL\source\repos\VisorFotos\obj\Debug\VisorFotos.pdb
